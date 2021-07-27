@@ -10,7 +10,8 @@
 
 ## :pushpin: Contact
 - 이메일: moretz0921@naver.com
-- 블로그: https://ryan-han.com
+- 노션: https://www.notion.so/7321c59724a641df921fde549333e51d
+- 블로그 : 
 - 깃헙: https://github.com/moretz0921
 
 </br>
