@@ -1,5 +1,5 @@
-# 한정수 포트폴리오
->캐치 프레이즈
+# 서지현 포트폴리오
+> 자기소개 
 
 </br>
 
@@ -9,9 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
+- 이메일: moretz0921@naver.com
 - 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 깃헙: https://github.com/moretz0921
 
 </br>
 
