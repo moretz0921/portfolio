@@ -17,7 +17,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [shoppingCart](https://github.com/Integerous/goQuality)
+### 1. [첫번째 프로젝트](https://github.com/Integerous/goQuality)
 >장바구니 구현 (개인 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
 >  
@@ -29,7 +29,7 @@
 ---
 
 ### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+>Ekko project  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
 >기술 스택:  
@@ -41,10 +41,9 @@
 ---
 
 ### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
+> 인스타그램 구현  (개인 프로젝트)  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+> Vue.js 
 >  
