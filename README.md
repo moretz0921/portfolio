@@ -21,16 +21,16 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [첫번째 프로젝트](https://apple.co/3n54Yf0)
+### 1. [첫번째 프로젝트](http://doubledot.co.kr/imin/)
 > 아임인 
 >개발 기간: 2021.01.15 ~ 2021.01.29  
 >  
 >기술 스택:  
 > html / css / javascript  
 >  
-> 아임인 앱 튜토리얼 모션
+> 아임인 앱 튜토리얼 모션 ( https://apple.co/3n54Yf0 )
 - 각 scene에 진입 후, 1초가 지난 다음 버튼 클릭 가능
-http://doubledot.co.kr/imin/
+
 ---
 
 ### 2. [두 번째 프로젝트]()
