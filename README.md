@@ -28,8 +28,9 @@
 >기술 스택:  
 > html / css / javascript  
 >  
-> 앱 튜토리얼 
-
+> 아임인 앱 튜토리얼 모션
+- 각 scene에 진입 후, 1초가 지난 다음 버튼 클릭 가능
+http://doubledot.co.kr/imin/
 ---
 
 ### 2. [두 번째 프로젝트]()
