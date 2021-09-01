@@ -22,7 +22,7 @@
 
 ## :pushpin: Projects
 
-### 1. [첫번째 프로젝트](http://doubledot.co.kr/kineff/g)
+### 1. [첫번째 프로젝트](https://www.epsd.co.kr/main/)
 > 에피소드 (팀 프로젝트)  
 >개발 기간: 2020.06.02 ~ 2020.07.01  
 >  
