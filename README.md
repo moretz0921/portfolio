@@ -22,6 +22,16 @@
 
 ## :pushpin: Projects
 
+### 2. [두번째 프로젝트](https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
+> 키네프 (팀 프로젝트)  
+>개발 기간: 2020.09.03 ~ 2020.10.27  
+>  
+>기술 스택:  
+> vue.js  
+>  
+
+---
+
 ### 3. [세번째 프로젝트](https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
 > 이케아 (팀 프로젝트)  
 >개발 기간: 2020.09.03 ~ 2020.10.27  
