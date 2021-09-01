@@ -70,7 +70,7 @@
 >개발 기간: 2021.03.21 ~ 2021.05.07  
 >  
 >기술 스택: 
->java 11 / spring 5.x / spring-boot 2.x / JPA(+ QueryDsl) / Redis  
+> java 11 / spring 5.x / spring-boot 2.x / JPA(+ QueryDsl) / Redis  
 >Elasticsearch / Vue.js 
 >  
 >[프로젝트 상세 설명](https://github.com/Ekko-ck/Ekko) 참고
