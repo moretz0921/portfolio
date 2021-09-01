@@ -22,7 +22,7 @@
 
 ## :pushpin: Projects
 ### 1. [첫번째 프로젝트](https://github.com/Integerous/goQuality)
->장바구니 구현 (개인 프로젝트)  
+> 아임인 
 >개발 기간: 2019.2.18 ~ 2019.4.5  
 >  
 >기술 스택:  
