@@ -65,15 +65,21 @@
 
 ---
 
-### 2. [다섯번째 프로젝트]()
+### 2. [다섯번째 프로젝트](https://github.com/Ekko-ck/Ekko)
 >Ekko project  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>개발 기간: 2021.03.21 ~ 2021.05.07  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>기술 스택: 
+>java 11 / spring 5.x / spring-boot 2.x / JPA(+ QueryDsl) / Redis  
+>Elasticsearch / Vue.js 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Ekko-ck/Ekko) 참고
+
+- Front-end 프로젝트 세팅(vue + vuex + router + vuetify)
+- API Module 개발
+- 메인 화면 개발(질문 목록, 검색)
+- 질문 등록 화면 개발
+
 
 ---
 
