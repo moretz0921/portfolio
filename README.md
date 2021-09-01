@@ -22,7 +22,7 @@
 
 ## :pushpin: Projects
 
-### 1. [세번째 프로젝트](https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
+### 3. [세번째 프로젝트](https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
 > 이케아 (팀 프로젝트)  
 >개발 기간: 2020.09.03 ~ 2020.10.27  
 >  
@@ -32,7 +32,7 @@
 
 ---
 
-### 1. [첫번째 프로젝트](http://doubledot.co.kr/imin/)
+### 4. [첫번째 프로젝트](http://doubledot.co.kr/imin/)
 > 아임인 (팀 프로젝트)  
 >개발 기간: 2021.01.15 ~ 2021.01.29  
 >  
