@@ -22,15 +22,13 @@
 
 ## :pushpin: Projects
 
-### 1. [첫번째 프로젝트](http://doubledot.co.kr/imin/)
+### 1. [세번째 프로젝트](https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
 > 이케아 (팀 프로젝트)  
->개발 기간: 2021.01.15 ~ 2021.01.29  
+>개발 기간: 2020.09.03 ~ 2020.10.27  
 >  
 >기술 스택:  
-> html / css / javascript  
+> vue.js  
 >  
-> 아임인 앱 튜토리얼 모션 ( https://apple.co/3n54Yf0 )
-- 각 scene에 진입 후, 1초가 지난 다음 버튼 클릭 가능
 
 ---
 
