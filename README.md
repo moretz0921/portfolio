@@ -28,7 +28,7 @@
 >기술 스택:  
 > html / css / javascript  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+> 앱 튜토리얼 
 
 ---
 
