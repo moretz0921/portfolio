@@ -21,12 +21,12 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [첫번째 프로젝트](https://github.com/Integerous/goQuality)
+### 1. [첫번째 프로젝트](https://apple.co/3n54Yf0)
 > 아임인 
->개발 기간: 2019.2.18 ~ 2019.4.5  
+>개발 기간: 2021.01.15 ~ 2021.01.29  
 >  
 >기술 스택:  
-> Vue.js / html / css   
+> html / css / javascript  
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
