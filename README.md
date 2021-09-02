@@ -24,13 +24,15 @@
 
 ## :pushpin: Projects
 
-### 1. [첫번째 프로젝트](https://www.epsd.co.kr/main/)
+### 1. [첫번째 프로젝트]
 > 에피소드 (팀 프로젝트)  
 >개발 기간: 2020.06.02 ~ 2020.07.01  
 >  
 >기술 스택:  
 > html / css / javascript  
->  
+
+>실 작업 화면
+>(https://www.epsd.co.kr/main/)
 
 ---
 
