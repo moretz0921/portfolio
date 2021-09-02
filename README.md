@@ -29,6 +29,11 @@
 >기술 스택:  
 > html / css / javascript  
 
+>[프로젝트 상세 설명]
+
+- pc / mobile 퍼블리싱 작업
+- swiper.js
+
 >실 작업 화면
 >(https://www.epsd.co.kr/main/)
 
@@ -42,6 +47,11 @@
 >기술 스택:  
 > vue.js  
 
+>[프로젝트 상세 설명]
+
+- pc / mobile 퍼블리싱 작업
+- ui 컴포넌트 분리 
+
 >실 작업 화면
 >(http://doubledot.co.kr/kineff/g)
 
@@ -54,6 +64,12 @@
 >기술 스택:  
 > vue.js  
 
+>[프로젝트 상세 설명]
+
+- pc / mobile 퍼블리싱 작업
+- ui 컴포넌트 분리
+- moment.js를 이용한 날짜 계산  
+
 >실 작업 화면
 >(https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
 ---
@@ -64,6 +80,11 @@
 >  
 >기술 스택:  
 > html / css / javascript  
+
+>[프로젝트 상세 설명]
+
+- pc / mobile 퍼블리싱 작업
+- intro 영역 모션
 
 > 실 작업 화면
 > (http://doubledot.co.kr/imin/)
