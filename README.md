@@ -24,7 +24,7 @@
 
 ## :pushpin: Projects
 
-### 1. [첫번째 프로젝트]
+### 1. 첫번째 프로젝트
 > 에피소드 (팀 프로젝트)  
 >개발 기간: 2020.06.02 ~ 2020.07.01  
 >  
@@ -37,39 +37,42 @@
 ---
 
 
-### 2. [두번째 프로젝트](http://doubledot.co.kr/kineff/g)
+### 2. 두번째 프로젝트
 > 키네프 (팀 프로젝트)  
 >개발 기간: 2020.09.03 ~ 2020.10.27  
 >  
 >기술 스택:  
 > vue.js  
->  
+
+>실 작업 화면
+>(http://doubledot.co.kr/kineff/g)
 
 ---
 
-### 3. [세번째 프로젝트](https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
+### 3. 세번째 프로젝트
 > 이케아 (팀 프로젝트)  
 >개발 기간: 2020.09.03 ~ 2020.10.27  
 >  
 >기술 스택:  
 > vue.js  
->  
 
+>실 작업 화면
+>(https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
 ---
 
-### 4. [네번째 프로젝트](http://doubledot.co.kr/imin/)
+### 4. 네번째 프로젝트
 > 아임인 (팀 프로젝트)  
 >개발 기간: 2021.01.15 ~ 2021.01.29  
 >  
 >기술 스택:  
 > html / css / javascript  
->  
-> 아임인 앱 튜토리얼 모션 ( https://apple.co/3n54Yf0 )
-- 각 scene에 진입 후, 1초가 지난 다음 버튼 클릭 가능
+
+> 실 작업 화면
+> (http://doubledot.co.kr/imin/)
 
 ---
 
-### 2. [다섯번째 프로젝트](https://github.com/Ekko-ck/Ekko)
+### 2. 다섯번째 프로젝트
 >Ekko project  (팀 프로젝트)  
 >개발 기간: 2021.03.21 ~ 2021.05.07  
 >  
@@ -83,13 +86,7 @@
 - 메인 화면 개발(질문 목록, 검색)
 - 질문 등록 화면 개발
 
+> 실 작업 화면
+> (https://github.com/Ekko-ck/Ekko)
 
 ---
-
-### 3. [여섯번째 프로젝트]()
-> 인스타그램 구현  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
-> Vue.js 
->  
