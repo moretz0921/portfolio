@@ -17,7 +17,7 @@
 ## :pushpin: Contact
 - 이메일: moretz0921@naver.com
 - 노션: https://www.notion.so/7321c59724a641df921fde549333e51d
-- 블로그 : 
+- 블로그 : https://moretz0921.tistory.com/
 - 깃헙: https://github.com/moretz0921
 
 </br>
