@@ -41,7 +41,7 @@
 - ui 컴포넌트 분리 
 
 >실 작업 화면
->(http://doubledot.co.kr/kineff/g)
+>(http://doubledot.co.kr/kineff/)
 
 ---
 
