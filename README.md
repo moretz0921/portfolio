@@ -97,7 +97,7 @@
 - intro 영역 모션
 
 > 실 작업 화면
-> (http://doubledot.co.kr/imin/)
+> (http://doubledot.co.kr/imin/intro/)
 
 ---
 
