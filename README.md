@@ -27,6 +27,9 @@
 > 실 작업 화면
 > (https://github.com/Ekko-ck/Ekko)
 
+![screencapture-localhost-8080-question-register-2021-09-09-22_21_19](https://user-images.githubusercontent.com/53929795/132693929-3922672f-be43-47ea-83ad-c8aefe7bb7a3.png)
+
+
 ---
 
 ### 2. 두번째 프로젝트
