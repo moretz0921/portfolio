@@ -104,7 +104,6 @@
 > 실 작업 화면
 > (http://doubledot.co.kr/imin/intro/)
 
-Uploading KakaoTalk_20210910_111704842.mp4…
 
 ---
 
