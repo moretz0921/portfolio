@@ -82,6 +82,11 @@
 
 >실 작업 화면
 >(https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
+
+![Up<img width="685" alt="KakaoTalk_20210910_112356919_02" src="https://user-images.githubusercontent.com/53929795/132865888-3409ee7f-4c9c-4ec8-a3c4-a863c5053281.png">
+
+
+
 ---
 
 ### 5. 다섯번째 프로젝트
