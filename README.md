@@ -42,8 +42,8 @@
 
 >[프로젝트 상세 설명]
 
-- pc / mobile 퍼블리싱 작업
-- swiper.js
+- pc / mobile 서브 페이지 퍼블리싱 작업
+- swiper.js 사용 
 
 >실 작업 화면
 >(https://www.epsd.co.kr/main/)
@@ -59,8 +59,8 @@
 
 >[프로젝트 상세 설명]
 
-- pc / mobile 퍼블리싱 작업
-- ui 컴포넌트 분리 
+- pc / mobile 서브페이지 퍼블리싱 작업
+- Vue.js, ui 컴포넌트 분리 
 
 >실 작업 화면
 >(http://doubledot.co.kr/kineff/)
@@ -76,8 +76,9 @@
 
 >[프로젝트 상세 설명]
 
-- pc / mobile 퍼블리싱 작업
-- ui 컴포넌트 분리
+- pc / mobile 메인, 서브페이지 퍼블리싱 작업
+- Vue.js, ui 컴포넌트 분리
+- gsap를 활용한 모션 작업
 - moment.js를 이용한 날짜 계산 
 
 <img width="1592" alt="KakaoTalk_20210910_112356919" src="https://user-images.githubusercontent.com/53929795/132866077-f6362f98-ca75-4dab-bd97-263c744d211e.png">
@@ -99,7 +100,7 @@
 >[프로젝트 상세 설명]
 
 - pc / mobile 퍼블리싱 작업
-- intro 영역 모션
+- gsap를 활용한 intro 영역 모션
 
 > 실 작업 화면
 > (http://doubledot.co.kr/imin/intro/)
