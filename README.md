@@ -78,14 +78,12 @@
 
 - pc / mobile 퍼블리싱 작업
 - ui 컴포넌트 분리
-- moment.js를 이용한 날짜 계산  
+- moment.js를 이용한 날짜 계산 
+
+<img width="685" alt="KakaoTalk_20210910_112356919_02" src="https://user-images.githubusercontent.com/53929795/132865888-3409ee7f-4c9c-4ec8-a3c4-a863c5053281.png">
 
 >실 작업 화면
 >(https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
-
-![Up<img width="685" alt="KakaoTalk_20210910_112356919_02" src="https://user-images.githubusercontent.com/53929795/132865888-3409ee7f-4c9c-4ec8-a3c4-a863c5053281.png">
-
-
 
 ---
 
