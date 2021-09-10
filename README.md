@@ -80,6 +80,8 @@
 - ui 컴포넌트 분리
 - moment.js를 이용한 날짜 계산 
 
+<img width="1592" alt="KakaoTalk_20210910_112356919" src="https://user-images.githubusercontent.com/53929795/132866077-f6362f98-ca75-4dab-bd97-263c744d211e.png">
+
 <img width="685" alt="KakaoTalk_20210910_112356919_02" src="https://user-images.githubusercontent.com/53929795/132865888-3409ee7f-4c9c-4ec8-a3c4-a863c5053281.png">
 
 >실 작업 화면
