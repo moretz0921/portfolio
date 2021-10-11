@@ -11,7 +11,7 @@
 ## :pushpin: Projects
 
 ### 1. 첫번째 프로젝트
->Ekko project  (팀 프로젝트)  
+>Ekko project  (개인 프로젝트)  
 >개발 기간: 2021.03.21 ~ 2021.05.07  
 >  
 >기술 스택: <br>
