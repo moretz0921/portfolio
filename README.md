@@ -42,8 +42,8 @@
 
 >[프로젝트 상세 설명]
 
-- pc / mobile 서브 페이지 퍼블리싱 작업
-- swiper.js 사용 
+1) pc / mobile 서브 페이지 퍼블리싱 작업
+2) swiper.js 로 서브 페이지 슬라이더 구현 
 
 >실 작업 화면
 >(https://www.epsd.co.kr/main/)
@@ -59,8 +59,9 @@
 
 >[프로젝트 상세 설명]
 
-- pc / mobile 서브페이지 퍼블리싱 작업
-- Vue.js, ui 컴포넌트 분리 
+1) pc / mobile 서브페이지 퍼블리싱 작업
+2) Vue.js : ui 컴포넌트 분리 
+3) 애니메이션 작업 
 
 >실 작업 화면
 >(http://doubledot.co.kr/kineff/)
