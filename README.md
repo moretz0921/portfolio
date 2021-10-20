@@ -44,7 +44,9 @@
 
 1) pc / mobile 서브 페이지 퍼블리싱 작업
 - about, seongsu 101, seongsu 121, app, booking page
+
 2) swiper.js를 이용한 서브 페이지 슬라이더 구현
+
 3) css animation 작업
 - app page
 
