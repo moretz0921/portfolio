@@ -13,13 +13,13 @@
 >개발 기간: 2021.03.21 ~ 2021.05.07  
 >  
 >기술 스택: <br>
-> java 11 / spring 5.x / spring-boot 2.x / JPA(+ QueryDsl) / Redis / Elasticsearch / Vue.js 
+> Vue.js / vuetify
 >  
->[프로젝트 상세 설명](https://github.com/Ekko-ck/Ekko) 참고
+>[작업한 부분](https://github.com/Ekko-ck/Ekko) 참고
 
 - Front-end 프로젝트 세팅(vue + vuex + router + vuetify)
-- API Module 개발
-- 메인 화면 개발(질문 목록, 검색)
+- question API Module 개발
+- 메인 화면 개발(질문 목록)
 - 질문 등록 화면 개발
 
 ![screencapture-localhost-8080-question-register-2021-09-09-22_21_19](https://user-images.githubusercontent.com/53929795/132693929-3922672f-be43-47ea-83ad-c8aefe7bb7a3.png)
@@ -38,7 +38,7 @@
 >기술 스택:  
 > html / css(scss) / javascript  
 
->[프로젝트 상세 설명]
+>[작업한 부분]
 
 1) pc / mobile 서브 페이지 퍼블리싱 작업
 - about, seongsu 101, seongsu 121, app, booking page
@@ -60,7 +60,7 @@
 >기술 스택:  
 > vue.js / html / css(scss)
 
->[프로젝트 상세 설명]
+>[작업한 부분]
 
 1) pc / mobile 서브 페이지 퍼블리싱 작업
 - product (list, table), about, contact page
@@ -83,7 +83,7 @@
 >기술 스택:  
 > vue.js / html / css(scss) 
 
->[프로젝트 상세 설명]
+>[작업한 부분]
 
 1) pc / mobile 서브 페이지 퍼블리싱 작업
 - main(Manifesto, Sustainability, betterLivingApp), detail, lab, teaser(1,2) page
@@ -110,7 +110,7 @@
 >기술 스택:  
 > html / css(scss) / javascript  
 
->[프로젝트 상세 설명]
+>[작업한 부분]
 
 1) 모바일 앱 내에 들어갈 화면 퍼블리싱 작업
 2) gsap를 이용한 애니메이션 작업
