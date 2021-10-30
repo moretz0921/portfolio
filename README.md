@@ -15,7 +15,7 @@
 >기술 스택: <br>
 > Vue.js / vuetify
 >  
->[작업한 부분](https://github.com/Ekko-ck/Ekko) 참고
+>[작업한 부분]
 
 - Front-end 프로젝트 세팅(vue + vuex + router + vuetify)
 - question API Module 개발
