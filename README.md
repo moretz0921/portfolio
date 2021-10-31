@@ -123,6 +123,7 @@ https://user-images.githubusercontent.com/53929795/139584759-28841edb-8e35-41e5-
 
 > 실 작업 화면
 > (http://doubledot.co.kr/imin/intro/)
+> 
 https://user-images.githubusercontent.com/53929795/139585659-69ad6915-3475-4122-b9df-11aa64c529f5.mp4
 
 ---
