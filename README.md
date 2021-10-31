@@ -100,10 +100,11 @@ https://user-images.githubusercontent.com/53929795/139586494-d5a37adf-0333-40c4-
 4) moment.js를 이용한 날짜 계산 작업
 - teaser(1) 페이지 영역
 
-<img width="1592" alt="KakaoTalk_20210910_112356919" src="https://user-images.githubusercontent.com/53929795/132866077-f6362f98-ca75-4dab-bd97-263c744d211e.png">
-
 >실 작업 화면
 >(https://sustainability.ikea.kr/ko/?itm_campaign=sustainability&itm_element=main_mb1&itm_content=teasing)
+
+https://user-images.githubusercontent.com/53929795/139588425-135e4ba8-4670-4ab9-a7a1-57c701144659.mp4
+
 
 ---
 
