@@ -74,10 +74,10 @@ https://user-images.githubusercontent.com/53929795/139584759-28841edb-8e35-41e5-
 3) gsap를 이용한 애니메이션 작업
 - product text 반복 효과
 
-![screencapture-doubledot-co-kr-kineff-all-day-care-hydracica-ampoule-html-2021-10-18-13_26_38](https://user-images.githubusercontent.com/53929795/137669450-ffe6fb20-3110-4520-9509-c67a52ce9d09.png)
-
 >실 작업 화면
 >(http://doubledot.co.kr/kineff/)
+
+https://user-images.githubusercontent.com/53929795/139586494-d5a37adf-0333-40c4-ad40-d70c5b2a1a8d.mp4
 
 ---
 
