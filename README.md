@@ -53,6 +53,8 @@
 >실 작업 화면
 >(https://www.epsd.co.kr/main/)
 
+https://user-images.githubusercontent.com/53929795/139584759-28841edb-8e35-41e5-8691-d21932e65454.mp4
+
 ---
 
 ### 3. 세번째 프로젝트
