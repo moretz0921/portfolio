@@ -120,7 +120,7 @@ https://user-images.githubusercontent.com/53929795/139588425-135e4ba8-4670-4ab9-
 
 1) 모바일 앱 내에 들어갈 화면 퍼블리싱 작업
 2) gsap를 이용한 애니메이션 작업
-- intro 영역 전체
+- intro 영역 전체 (동전모션 제외)
 
 > 실 작업 화면
 > (http://doubledot.co.kr/imin/intro/)
