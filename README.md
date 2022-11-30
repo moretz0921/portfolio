@@ -2,7 +2,6 @@
 
 ## :pushpin: Contact
 - 이메일: moretz0921@naver.com
-- 블로그 : https://moretz0921.tistory.com/
 
 </br>
 
